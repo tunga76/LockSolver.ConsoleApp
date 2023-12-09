@@ -1,0 +1,14 @@
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\bin\Debug\net6.0\LockSolver.ConsoleApp.exe
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\bin\Debug\net6.0\LockSolver.ConsoleApp.deps.json
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\bin\Debug\net6.0\LockSolver.ConsoleApp.runtimeconfig.json
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\bin\Debug\net6.0\LockSolver.ConsoleApp.dll
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\bin\Debug\net6.0\LockSolver.ConsoleApp.pdb
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\obj\Debug\net6.0\LockSolver.ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\obj\Debug\net6.0\LockSolver.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\obj\Debug\net6.0\LockSolver.ConsoleApp.AssemblyInfo.cs
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\obj\Debug\net6.0\LockSolver.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\obj\Debug\net6.0\LockSolver.ConsoleApp.dll
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\obj\Debug\net6.0\refint\LockSolver.ConsoleApp.dll
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\obj\Debug\net6.0\LockSolver.ConsoleApp.pdb
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\obj\Debug\net6.0\LockSolver.ConsoleApp.genruntimeconfig.cache
+C:\Users\MELISDENIZ\Desktop\VisualStudioCodeProject\EgitimMicroservices\LockSolver.ConsoleApp\LockSolver.ConsoleApp\obj\Debug\net6.0\ref\LockSolver.ConsoleApp.dll
